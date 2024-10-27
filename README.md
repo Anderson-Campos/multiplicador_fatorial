@@ -27,7 +27,7 @@
 
 <h2>Componentes principais do código</h2>
 <ol>
-  <li>Entrada de dados: O programa utiliza a classe Scanner para ler o número fornecido pelo usuário a partir do console.</li>
-  <li>Cálculo do fatorial: Um loop for multiplica o número fatorial por cada número de 1 até o número inserido pelo usuário.</li>
-  <li>Exibição do resultado: O programa exibe o resultado do cálculo no console.</li>
+  <li><strong>Entrada de dados</strong>: O programa utiliza a classe Scanner para ler o número fornecido pelo usuário a partir do console.</li>
+  <li><strong>Cálculo do fatorial</strong>: Um loop for multiplica o número fatorial por cada número de 1 até o número inserido pelo usuário.</li>
+  <li><strong>Exibição do resultado</strong>: O programa exibe o resultado do cálculo no console.</li>
 </ol>
