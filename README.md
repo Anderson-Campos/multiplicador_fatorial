@@ -14,9 +14,6 @@
   <li>Exibe o resultado do cálculo.</li>
 </ul>
 
-<h2>Pré-requisitos</h2>
-<p>Para compilar e executar o programa, é necessário ter o Java Development Kit (JDK) instalado no computador. Este projeto foi escrito em Java e, portanto, requer uma versão compatível do JDK para ser executado.</p>
-
 <h2>Estrutura do Código</h2>
 <p>O programa é composto pelo seguinte código:</p>
 
